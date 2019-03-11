@@ -328,3 +328,14 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/TToyaCUP_OCR/tessdata/jpn_vert.traineddata
+/TToyaCUP_OCR/tessdata/jpn.traineddata
+/TToyaCUP_OCR/tessdata/eng.traineddata
+/TToyaCUP_OCR/tessdata/eng.tesseract_cube.nn
+/TToyaCUP_OCR/tessdata/eng.cube.word-freq
+/TToyaCUP_OCR/tessdata/eng.cube.size
+/TToyaCUP_OCR/tessdata/eng.cube.params
+/TToyaCUP_OCR/tessdata/eng.cube.nn
+/TToyaCUP_OCR/tessdata/eng.cube.lm
+/TToyaCUP_OCR/tessdata/eng.cube.fold
+/TToyaCUP_OCR/tessdata/eng.cube.bigrams
